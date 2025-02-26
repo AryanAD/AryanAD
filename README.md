@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- currently working on College Project<br>- studying BCA - TU <br>- working as a web developer since 2023</p>
+<p align="left">- currently working checking out the T3 stack<br>- building a google drive clone <br>- working as a web developer since 2023</p>
 
 ###
 
