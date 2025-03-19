@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- currently checking out zustand<br>- working as a web developer since 2023</p>
+<p align="left">- currently checking out gsap<br>- working as a web developer since 2023</p>
 
 ###
 
