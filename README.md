@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Aryan;Web+Developer;Creative+Coder;UI/UX+Enthusiast;GSAP+Explorer&center=true&size=30&color=36BCF7&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste🙏;I'm+Aryan+(naryos);Web+Developer;Creative+Coder;Tech+Enthusiast;&center=true&size=30&color=36BCF7&duration=4000&pause=1000" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -10,16 +10,16 @@
   <a href="https://github.com/AryanAD?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Projects-24+-brightgreen?style=flat-square&logo=github" alt="Projects">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-adhikari-0b443833b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/naryosdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:naryosdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.youtube.com/your-youtube" target="_blank">
+  <a href="https://www.youtube.com/@naryos" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <img src="https://komarev.com/ghpvc/?username=AryanAD&style=flat-square&color=blueviolet" alt="Profile Views">
@@ -37,7 +37,7 @@ const naryos = {
 };
 ```
 
-  <p>I'm passionate about creating seamless user experiences through clean code and innovative design. When I'm not coding, you might find me exploring new animation techniques or experimenting with the latest web technologies.</p>
+  <p>I'm passionate about creating seamless user experiences through clean code and innovative design. When I'm not coding, you might find me exploring new techniques or experimenting with the latest web technologies.</p>
 
 <div align="left">
   <h2>🛠️ Tech Stack</h2>
@@ -105,31 +105,30 @@ const naryos = {
   <img src="https://github-profile-trophy.vercel.app/?username=AryanAD&theme=nord&no-frame=true&row=1&column=6" alt="Trophies">
 </div>
 
-<h2>🐍 Contribution Graph</h2>
+<h2>📈 Contribution Graph</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AryanAD/AryanAD/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AryanAD/AryanAD/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/AryanAD/AryanAD/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanAD&theme=react)](https://github.com/aryanad/github-readme-activity-graph)
+
 </div>
 
-<h2 align="center">📫 Let's Connect!</h2>
+<h2 align="left">📫 Let's Connect!</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-adhikari-0b443833b" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/naryosdev" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter">
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:naryosdev@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email">
   </a>
-  <a href="https://www.youtube.com/your-youtube" target="_blank">
+  <a href="https://www.youtube.com/@naryos" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube">
   </a>
+
 </div>
 
 <div align="center" style="margin-top: 30px;">
