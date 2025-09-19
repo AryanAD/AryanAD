@@ -78,16 +78,16 @@ const naryos = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=mern-ecommerce-store&theme=nightowl&hide_border=true" alt="Advanced E-Commerce Store">
   </a>
   <a href="https://github.com/AryanAD/airwings-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=react-tcss-gsap&theme=nightowl&hide_border=true" alt="Flight Booking Frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=airwings-app&theme=nightowl&hide_border=true" alt="Flight Booking Frontend">
   </a>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 10px;">
   <a href="https://github.com/AryanAD/react-job">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=saas-backend&theme=nightowl&hide_border=true" alt="Career Marg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=react-job&theme=nightowl&hide_border=true" alt="Career Marg">
   </a>
   <a href="https://github.com/AryanAD/admin-mgmt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=projectI&theme=nightowl&hide_border=true" alt="Saral Admin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AryanAD&repo=admin-mgmt&theme=nightowl&hide_border=true" alt="Saral Admin">
   </a>
 </div>
 
